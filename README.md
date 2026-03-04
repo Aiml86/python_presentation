@@ -1,6 +1,6 @@
 # python_presentation
 presentation
-# 📊 University Query Analysis (EDA Project)
+#  University Query Analysis (EDA Project)
 
 ## 📌 Project Overview
 
@@ -9,7 +9,7 @@ The goal is to understand patterns, relationships, and important insights from t
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Clean the dataset (handle missing values & duplicates)
 * Perform summary statistics
@@ -19,7 +19,7 @@ The goal is to understand patterns, relationships, and important insights from t
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Python
 * Pandas
